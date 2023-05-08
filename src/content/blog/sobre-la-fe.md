@@ -1,7 +1,8 @@
 ---
 aliases: []
 pubDate: '2013-01-27T06:17:08.000Z'
-tags: []
+tags:
+- religion
 title: Sobre la fe
 ---
 
