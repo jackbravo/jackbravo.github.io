@@ -1,6 +1,7 @@
 import os
 import shutil
 import argparse
+import frontmatter
 
 # Set up command line argument parser
 parser = argparse.ArgumentParser(description="Move and rename index.md files in the pages directory.")
@@ -20,9 +21,24 @@ def move_index_files(root_directory, destination_directory):
                 # Determine the new filename based on the directory name
                 new_filename = f"{directory}.md"
 
-                # Move and rename the file to the destination directory
+                # Copy and rename the file to the destination directory
                 destination_file = os.path.join(destination_directory, new_filename)
-                shutil.move(index_file, destination_file)
+                shutil.copy2(index_file, destination_file)
+
+                # Update the frontmatter in the new file
+                update_frontmatter(destination_file)
+
+# Define a function to update the frontmatter section of a Markdown file
+def update_frontmatter(file_path):
+    with open(file_path) as file:
+        content = file.read()
+        post = frontmatter.loads(content)
+
+    if 'date' in post.keys():
+        post['pubDate'] = post.metadata.pop('date')
+
+    with open(file_path, 'w') as file:
+        file.write(frontmatter.dumps(post))
 
 # Call the function with command line arguments
 move_index_files(args.root_directory, args.destination_directory)
