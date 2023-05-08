@@ -8,7 +8,7 @@ import { SITE_TITLE } from '../consts';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.props;
 ---
 
 <html lang="en">
@@ -43,6 +43,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						</div>
 					)
 				}
+				{tags?.map((tag) => (
+					<small class="tag" style="margin-left: 10px;"><a href={`/tags/${tag}`}>{tag}</a></small>
+				))}
 				<slot />
 			</article>
 		</main>
