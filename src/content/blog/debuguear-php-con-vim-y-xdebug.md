@@ -7,7 +7,7 @@ tags:
 title: Debuguear PHP con vim y xdebug
 ---
 
-![vimdebugger.png](./vimdebugger.png)
+![vimdebugger.png](/vimdebugger.png)
 
 UPDATE: cambié el plugin de vim que se utiliza para debuguear por uno más nuevo mantenido en github.
 
