@@ -14,13 +14,17 @@ Hoy me tope con 2 noticias bastante interesantes sobre PHP
 
 La verdad esa última es la que a mi me suena como una gran noticia, sobre todo si se materializa. No mas clases como las del Zend Framework:
 
-    $term = new Zend_Search_Lucene_Analize_Analyzer_Query_Term();
+```php
+$term = new Zend_Search_Lucene_Analize_Analyzer_Query_Term();
+```
 
 ta cañón no? jejeje
 ahora sería más bien algo como:
 
+```php
 import Zend.Search.Lucene.Analize;
 $term = new Analizer_Query_Term();
+```
 
 ala java, .NET, o casi cualquier otro lenguaje carajo!!!! es una de las pequeñas cosas que me molestan todavía de PHP  aunque,  igual que con casi todo, terminas por acostumbrarte.
 
