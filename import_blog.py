@@ -21,9 +21,8 @@ def move_index_files(root_directory, destination_directory):
                 new_filename = f"{directory}.md"
 
                 # Move and rename the file to the destination directory
-                source_file = os.path.join(root_directory, index_file)
                 destination_file = os.path.join(destination_directory, new_filename)
-                shutil.move(source_file, destination_file)
+                shutil.move(index_file, destination_file)
 
 # Call the function with command line arguments
 move_index_files(args.root_directory, args.destination_directory)
