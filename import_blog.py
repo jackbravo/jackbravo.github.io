@@ -10,22 +10,18 @@ args = parser.parse_args()
 
 # Define a function to move index.md files and rename them
 def move_index_files(root_directory, destination_directory):
-    # Navigate to the "pages" folder
-    pages_directory = os.path.join(root_directory, "pages")
-    os.chdir(pages_directory)
-
-    # Loop through all directories in the "pages" folder
-    for directory in os.listdir():
+    # Loop through all directories in the root directory
+    for directory in os.listdir(root_directory):
         # Check if the current item is a directory
-        if os.path.isdir(directory):
+        if os.path.isdir(os.path.join(root_directory, directory)):
             # Check if the directory contains an "index.md" file
-            index_file = os.path.join(directory, "index.md")
+            index_file = os.path.join(root_directory, directory, "index.md")
             if os.path.isfile(index_file):
                 # Determine the new filename based on the directory name
                 new_filename = f"{directory}.md"
 
                 # Move and rename the file to the destination directory
-                source_file = os.path.join(pages_directory, index_file)
+                source_file = os.path.join(root_directory, index_file)
                 destination_file = os.path.join(destination_directory, new_filename)
                 shutil.move(source_file, destination_file)
 
