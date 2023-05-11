@@ -1,5 +1,5 @@
 ---
-title: Migración del blog a Astro
+title: Migré mi blog de Gastby a Astro con ayuda de ChatGPT
 pubDate: 'May 11 2023'
 tags:
 - programacion
