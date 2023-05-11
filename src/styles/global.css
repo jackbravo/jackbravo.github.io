@@ -59,9 +59,9 @@ pre > code {
 	all: unset;
 }
 blockquote {
-	border: 1px solid #999;
+	border-left: 6px solid #999;
 	color: #222;
-	padding: 2px 0px 2px 20px;
+	padding: 0px 0px 0px 20px;
 	margin: 0px;
 	font-style: italic;
 }

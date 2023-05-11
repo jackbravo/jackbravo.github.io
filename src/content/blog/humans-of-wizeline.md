@@ -60,3 +60,7 @@ Joaquín reconoce que un gran desafío es mantener el equilibrio entre la vida l
 Mirando hacia el futuro, Joaquín todavía aprecia la creación de una organización sin fines de lucro (potencialmente en asociación con Wizeline) que capacitaría a las personas para usar software de código abierto. Sueña con abrir puertas a personas que han enfrentado desafíos en la vida y no tuvieron la oportunidad de asistir a la universidad, por ejemplo. Está emocionado de que los mismos tipos de sueños inspiren a muchas personas en Wizeline y ya están marcando la diferencia con proyectos similares.
 
 Para cerrar, Joaquín nos recuerda: “Es importante defender e inculcar nuestros valores Wizeline (innovación, comunidad y propiedad) en todo lo que hacemos y decimos. Necesitamos seguir fomentando estos valores para superar los desafíos que nos traerá el futuro”.
+
+---
+
+Como extra, puedes ver otras fotos consideradas para el artículo en este álbum de [google photos](https://photos.google.com/share/AF1QipOebVc90N4cJT1k7QbhHhNayILRflaGpInJnRt5w0VoJ4r6W11-gqDa2in2BxzHsA?key=VzROR3VBLTRwVlpaZ2xDZ1BvdkhWWk5keF9RTGl3).
