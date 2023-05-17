@@ -20,7 +20,6 @@ Fue en ese momento cuando vi que se atravesaban unos baches en la carretera, y y
 
 Suponemos, porque la verdad no me acuerdo, que debí caer con el brazo izquierdo estirado pegando fuerte contra el pavimento y ese golpe hizo que mi brazo impactará el hombro que se rompió en la escápula y en la glenoide. Me raspé también el codo el hombro y la espalda y de hecho las raspadas del hombro y la espalda fueron bastante fuertes porque más que raspadas fueron como quemaduras que aún no han terminado de cicatrizar.
 
-![escápula rota](https://lh3.googleusercontent.com/pw/AJFCJaX_03692XxxFO-s4vWn7JP6851zGaUC8z2iMIPOkR70uDac_X85pN3kzzvyP_Gwl7RGV2xR23xphXphhPTuPtAkjlIT-b9B7WMvuuP78_KGDJxK46UOoDruBLfciVByedpsWTFb9qYdM4IyOdjLRyb2hg=w960)
 ![hombro quemado](https://lh3.googleusercontent.com/pw/AJFCJaXEWwTJ8adlE4uSGeqrYpRdRY7ohSLCZdazFpsx_dSHltYEBA2vGeswSvUKWafz3sxNDLuL8xju6kXf4_AH7jysXw9ESp8DDdQYTDo1nSKGTp-YmE_6pMW362OTXIuFOrrL2MH2t4pYwYEk1iZjNFbH-g=w960)
 ![codo raspado](https://lh3.googleusercontent.com/pw/AJFCJaXuuL4QD95sy4dmNCpL378mqaKqFJI_UQP8Sf0Iwe8QMpSeuYX2bAy4Doe_1_LYO7lQk3watROYNZh_JqaxiyaxQfHLFeLfsrLqv7WlXJ0Lfzfoq3oTFzZM6JxPBlun1-IlycqH2QMSEssVxJ1BAJoI5A=w960)
 
@@ -46,6 +45,7 @@ Desperté super mareado, pero bien, y dormí en el hospital, todavía con muchos
 
 Recuerdo mucho que lo primero que le pregunté al doctor cuando lo vi era si iba a poder realizar un viaje que tenía planeado a Monterrey en como dos semanas o tres. Y pues la verdad se rió. Claro que no, me dijo, vas a necesitar de 13 a 16 semanas para poder considerar volver a trabajar. **Al día de hoy creo que todavía me sigo sorprendiendo y sigo descubriendo la gravedad del accidente que tuve.**
 
+![escápula rota](https://lh3.googleusercontent.com/pw/AJFCJaX_03692XxxFO-s4vWn7JP6851zGaUC8z2iMIPOkR70uDac_X85pN3kzzvyP_Gwl7RGV2xR23xphXphhPTuPtAkjlIT-b9B7WMvuuP78_KGDJxK46UOoDruBLfciVByedpsWTFb9qYdM4IyOdjLRyb2hg=w960)
 ![hombro después de la operación](https://lh3.googleusercontent.com/pw/AJFCJaXhCi7TsTtQYT9uxC4zocfoTJwAG9ykJLfb3m5Y-ItZt23O0FHQbyluAfavS1kqRqcljRqeekOIIFDoZYzJbYQbnsgzDNlwosY6vUU3B-PNBMWpNZ6KDLcu5QSSGWeTMjrjpJO_mrIJN5TOcCTmXWYyDQ=w960)
 
 Dejaré la parte de mi recuperación para otro momento.
