@@ -6,7 +6,7 @@ tags:
 - bicicleta
 ---
 
-Esta es una continuación al post de [mi accidente en bici](../mi-accidente-en-bici), que sucedió el 4 de febrero del año pasado, hace poco más de 1 año.
+Esta es una continuación al post de [mi accidente en bici](../mi-accidente-en-bici), que sucedió el 4 de febrero del año pasado, hace poco más de 1 año, cuando me rompí el homóplato mientras viajaba en bici con mis primos.
 
 Creo que podría dividir mi recuperación, que aún no ha terminado, en tres periodos distintos.
 
