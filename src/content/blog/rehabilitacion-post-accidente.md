@@ -6,6 +6,8 @@ tags:
 - bicicleta
 ---
 
+Esta es una continuación al post de [mi accidente en bici](../mi-accidente-en-bici).
+
 Creo que podría dividir mi recuperación, que aún no ha terminado, en tres periodos distintos.
 
 1. El primero de 5 semanas de solo reposo, porque todavía tenía un par de alambres saliendo por el hombro ayudando a sostener la clavícula y el hombro en su lugar tras la operación. Al terminar estas 5 semanas no podía levantar el brazo yo solo de la cama.
