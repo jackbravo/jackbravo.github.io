@@ -54,10 +54,10 @@ const { posts } = Astro.props;
 			<section>
 				<ul>
 					{
-						posts.map((post: { data: { pubDate: Date; title: string; }; slug: string; }) => (
+						posts.map((post) => (
 							<li>
 								<FormattedDate date={post.data.pubDate} />
-								<a href={`/${post.slug}/`}>{post.data.title}</a>
+								<a href={`/${post.id.replace(/\.md$/, '')}/`}>{post.data.title}</a>
 							</li>
 						))
 					}
