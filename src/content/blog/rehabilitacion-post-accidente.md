@@ -1,4 +1,5 @@
 ---
+description: "Recuperación y rehabilitación tras el accidente en bici donde me rompí el hombro, dividida en tres periodos de recuperación."
 title: Rehabilitación post accidente
 pubDate: 'Feb 27 2024'
 heroImage: /acostado.webp

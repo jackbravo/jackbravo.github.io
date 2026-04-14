@@ -5,6 +5,7 @@ pubDate: '2008-08-05T16:26:48.000Z'
 tags:
 - git
 - mysql
+description: "Cómo hacer backups de bases de datos MySQL utilizando git como sistema de control de versiones, aprovechando la opción --tab de mysqldump para rastrear cambios históricos."
 title: Backups de MySQL con git
 ---
 

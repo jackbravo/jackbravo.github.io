@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2011-01-17T18:35:38.000Z'
 tags:
 - mysql
+description: "Sentencia SQL para capitalizar la primera letra de una columna en MySQL usando CONCAT, UPPER, LEFT y MID."
 title: Capitalizar la primer letra de una columna en MySQL
 ---
 

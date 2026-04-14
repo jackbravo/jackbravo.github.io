@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2009-06-08T12:29:53.000Z'
 tags: []
+description: "Reflexión sobre si anular o no el voto en las elecciones mexicanas de 2009, analizando la frustración con la política y la propuesta del movimiento Anúlalos."
 title: Anular el voto, o no anular el voto, esa es la cuestión
 ---
 

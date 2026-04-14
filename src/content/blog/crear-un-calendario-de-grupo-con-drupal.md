@@ -5,6 +5,7 @@ pubDate: '2008-09-10T20:03:59.000Z'
 tags:
 - drupal
 - views
+description: "Tutorial para crear un calendario de grupo en Drupal usando organic groups, CCK, date, views y calendar para mostrar actividades por comunidad."
 title: Crear un calendario de grupo con drupal
 ---
 

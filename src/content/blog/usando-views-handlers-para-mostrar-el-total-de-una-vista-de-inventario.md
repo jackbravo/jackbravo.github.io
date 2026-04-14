@@ -5,6 +5,7 @@ pubDate: '2011-08-04T16:35:24.000Z'
 tags:
 - drupal
 - views
+description: "Cómo implementar un views handler personalizado en Drupal 7 para mostrar totales en vistas de inventario."
 title: Usando views handlers para mostrar el total de una vista de inventario
 ---
 

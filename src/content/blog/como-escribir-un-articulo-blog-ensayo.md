@@ -4,6 +4,7 @@ aliases:
 pubDate: '2011-02-02T15:58:52.000Z'
 tags:
 - blogs
+description: "Notas del curso 'Start Writing Essays' del Open University sobre cómo escribir un ensayo: investigación, estructura, redacción y revisión."
 title: ¿Cómo escribir un artículo / blog / ensayo?
 ---
 

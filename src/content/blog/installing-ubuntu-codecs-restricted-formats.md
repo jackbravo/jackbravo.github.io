@@ -3,6 +3,7 @@ aliases:
 - 2008/04/29/installing-ubuntu-codecs-restricted-formats
 pubDate: '2008-04-29T15:27:25.000Z'
 tags: []
+description: "How to install restricted codecs and formats in Ubuntu to play mp3, DVDs and other multimedia formats."
 title: Installing Ubuntu codecs (restricted formats)
 ---
 

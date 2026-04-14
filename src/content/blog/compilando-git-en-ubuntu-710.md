@@ -6,6 +6,7 @@ tags:
 - git
 - linux
 - ubuntu
+description: "Guía para compilar git desde el código fuente en Ubuntu 7.10 e instalar la versión más reciente con soporte para submódulos."
 title: Compilando git en ubuntu 7.10
 ---
 

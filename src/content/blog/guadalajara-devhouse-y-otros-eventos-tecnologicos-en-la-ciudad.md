@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2009-09-04T19:38:51.000Z'
 tags:
 - programacion
+description: "Eventos tecnológicos en Guadalajara incluyendo DevHouse, meetups y conferencias para desarrolladores."
 title: Guadalajara DevHouse y otros eventos tecnológicos en la ciudad
 ---
 

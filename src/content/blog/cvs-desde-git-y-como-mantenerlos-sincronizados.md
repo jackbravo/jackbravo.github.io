@@ -5,6 +5,7 @@ pubDate: '2008-07-24T15:27:50.000Z'
 tags:
 - git
 - drupal
+description: "Cómo usar git-cvsimport para rastrear módulos de Drupal que están en CVS y mantenerlos sincronizados con git."
 title: CVS desde git, y como mantenerlos sincronizados
 ---
 

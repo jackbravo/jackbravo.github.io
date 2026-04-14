@@ -1,4 +1,5 @@
 ---
+description: "Migración del blog personal de Gatsby a Astro con ayuda de ChatGPT, superando los problemas de complejidad de Gatsby y GraphQL."
 title: Migré mi blog de Gastby a Astro con ayuda de ChatGPT
 pubDate: 'May 11 2023'
 tags:

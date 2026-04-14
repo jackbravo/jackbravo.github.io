@@ -4,6 +4,7 @@ aliases:
 - un-retorno-hattrick
 pubDate: '2010-05-22T14:12:58.000Z'
 tags: []
+description: "Un mensaje nostálgico del antiguo capitán del equipo en Hattrick que motiva a regresar al juego de gestión de fútbol."
 title: Un retorno a Hattrick
 ---
 

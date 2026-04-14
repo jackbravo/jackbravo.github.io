@@ -3,6 +3,7 @@ aliases:
 - el-miedo-hiere-m-s-que-las-espadas
 pubDate: '2011-08-26T18:23:01.000Z'
 tags: []
+description: "Reflexión sobre cómo el miedo puede paralizar y dañar más que cualquier arma física."
 title: El miedo hiere más que las espadas
 ---
 

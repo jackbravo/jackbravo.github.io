@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2009-09-08T15:50:18.000Z'
 tags:
 - axai
+description: "Axai busca programadores web apasionados con experiencia en Drupal y Symfony para unirse al equipo de desarrollo."
 title: Se busca programador
 ---
 

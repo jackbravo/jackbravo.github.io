@@ -4,6 +4,7 @@ aliases:
 pubDate: '2008-02-07T16:30:22.000Z'
 tags:
 - blogs
+description: "Explicación de qué es Technorati, cómo registrar tu blog y por qué es importante para ganar visibilidad y autoridad."
 title: ¿Que es eso del technorati blog claim?
 ---
 

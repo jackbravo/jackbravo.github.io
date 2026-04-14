@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2008-12-03T00:36:07.000Z'
 tags:
 - bicicleta
+description: "Relato sobre el robo de mi bicicleta y reflexiones sobre la confianza y los tiempos que vivimos."
 title: Me robaron mi bicicleta
 ---
 

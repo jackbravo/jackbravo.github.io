@@ -1,4 +1,5 @@
 ---
+description: "Entrevista en la serie Humans of Wizeline sobre Joaquín Bravo y su trayectoria profesional en Wizeline."
 title: Humans of Wizeline, Joaquín Bravo
 pubDate: 'Apr 24 2023'
 heroImage: /joaquin-arbol.webp

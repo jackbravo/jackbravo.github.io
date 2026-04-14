@@ -4,6 +4,7 @@ aliases:
 pubDate: '2008-07-23T01:03:44.000Z'
 tags:
 - ubuntu
+description: "Experiencia instalando Ubuntu 8.04 en una laptop Dell Vostro 1510, incluyendo detección de drivers y configuración."
 title: Dell vostro 1510 con ubuntu
 ---
 

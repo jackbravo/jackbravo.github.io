@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2011-04-26T06:30:38.000Z'
 tags: []
+description: "Reflexiones sobre el juego de mesa Risk y cómo la suerte influye en el resultado más de lo que parece."
 title: El Risk y la mala suerte
 ---
 

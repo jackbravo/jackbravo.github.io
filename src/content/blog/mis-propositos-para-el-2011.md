@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2011-01-04T16:11:39.000Z'
 tags:
 - propósitos
+description: "Lista de propósitos personales, familiares, comunitarios y profesionales para el año 2011."
 title: Mis propósitos para el 2011
 ---
 

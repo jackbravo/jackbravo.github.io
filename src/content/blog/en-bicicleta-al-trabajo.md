@@ -4,6 +4,7 @@ aliases:
 pubDate: '2008-04-21T05:17:24.000Z'
 tags:
 - bicicleta
+description: "Experiencia de ir al trabajo en bicicleta y los beneficios de esta práctica diaria."
 title: En bicicleta al trabajo
 ---
 

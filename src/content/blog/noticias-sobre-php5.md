@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2007-07-26T02:30:00.000Z'
 tags:
 - php
+description: "Noticias sobre el fin de soporte de PHP 4 y la llegada de namespaces a PHP 5.3 y PHP 6."
 title: Noticias sobre PHP5
 ---
 
