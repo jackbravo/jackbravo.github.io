@@ -1,0 +1,53 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<BaseHead title={`404 - ${SITE_TITLE}`} description="Página no encontrada" />
+		<style>
+			.error-content {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				text-align: center;
+				padding: 3em 1em;
+			}
+			.error-content img {
+				width: 200px;
+				height: 200px;
+				margin-bottom: 1.5em;
+			}
+			.error-content h1 {
+				font-size: 4em;
+				margin: 0;
+				color: #222;
+			}
+			.error-content p {
+				font-size: 1.1em;
+				color: #595959;
+				margin: 0.5em 0 1.5em;
+			}
+			.error-content a {
+				color: #3273dc;
+				font-size: 1.1em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<div class="error-content">
+				<img src="/gaceta_1.png" alt="La gaceta de la cabeza" />
+				<h1>404</h1>
+				<p>¡Ups! Esta página se perdió en el ciberespacio.</p>
+				<a href="/">← Volver al inicio</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
