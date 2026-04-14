@@ -4,6 +4,7 @@ aliases:
 pubDate: '2007-07-25T04:00:00.000Z'
 tags:
 - php
+description: "Noticias sobre el fin de vida de PHP 4 y la posible inclusión de namespaces en PHP 5.3 y PHP 6."
 title: noticias sobre PHP
 ---
 

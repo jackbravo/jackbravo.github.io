@@ -4,6 +4,7 @@ aliases:
 pubDate: '2013-03-07T21:11:22.000Z'
 tags:
 - drupal
+description: "Video demostración de comandos de VIM para edición rápida de archivos: dd, selección en bloque, macros, búsqueda y más."
 title: 'Demostración de VIM para edición rápida de archivos '
 ---
 

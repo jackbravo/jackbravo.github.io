@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2008-12-10T02:23:31.000Z'
 tags:
 - git
+description: "Cómo crear un repositorio git compartido en un servidor público usando git --bare init en lugar del método tradicional de clonación."
 title: Crear un nuevo proyecto compartido en git
 ---
 

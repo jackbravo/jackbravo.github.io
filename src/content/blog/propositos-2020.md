@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2020-01-10T16:11:39.000Z'
 tags:
 - propósitos
+description: "Propósitos para el 2020: balance trabajo-vida, ejercicio, viajes, contribuciones open source y conferencias de software."
 title: Mis propósitos para el 2020
 ---
 

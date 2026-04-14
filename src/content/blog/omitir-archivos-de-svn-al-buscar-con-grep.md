@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2008-10-29T17:32:32.000Z'
 tags:
 - linux
+description: "Cómo configurar grep para excluir archivos de subversion (.svn) al buscar en proyectos usando GREP_OPTIONS en .bashrc."
 title: Omitir archivos de svn al buscar con grep
 ---
 

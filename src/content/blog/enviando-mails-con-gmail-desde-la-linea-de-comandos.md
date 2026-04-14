@@ -6,6 +6,7 @@ tags:
 - ubuntu
 - consola
 - shell
+description: "Cómo configurar msmtp o sendmail para enviar correos desde la línea de comandos usando Gmail como servidor SMTP."
 title: Enviando mails con gmail desde la línea de comandos
 ---
 

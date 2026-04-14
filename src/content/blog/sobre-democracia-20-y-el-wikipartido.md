@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2013-03-07T00:21:45.000Z'
 tags: []
+description: "Reflexiones sobre Democracia 2.0 y el wikipartido, iniciativas para crear plataformas tecnológicas democráticas para nuevos partidos políticos en México."
 title: Sobre Democracia 2.0 y el wikipartido
 ---
 

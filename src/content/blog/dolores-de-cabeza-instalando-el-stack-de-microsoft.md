@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2009-09-22T23:33:02.000Z'
 tags: []
+description: "Experiencia instalando Visual Studio 2008 y SQL Server 2008 Express, incluyendo errores con el performance counter registry."
 title: Dolores de cabeza instalando el stack de microsoft
 ---
 

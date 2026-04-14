@@ -4,6 +4,7 @@ aliases:
 pubDate: '2012-09-18T00:00:00.000Z'
 tags:
 - drupal
+description: "Resumen de la DrupalCamp Panamá 2012, el evento más importante de Drupal en Centroamérica."
 title: DrupalCamp Panamá 2012
 ---
 

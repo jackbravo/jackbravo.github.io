@@ -4,6 +4,7 @@ aliases:
 pubDate: '2012-04-12T21:22:03.000Z'
 tags:
 - religion
+description: "Reflexión crítica sobre el papel de la iglesia católica en la sociedad contemporánea."
 title: 'Enemigo público no. 1: La iglesia católica'
 ---
 

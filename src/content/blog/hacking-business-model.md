@@ -4,6 +4,7 @@ aliases:
 pubDate: '2010-03-09T01:28:41.000Z'
 tags:
 - axai
+description: "Reflexiones sobre el modelo de negocio y cómo hackearlo para innovar en emprendimiento."
 title: Hacking Business Model
 ---
 

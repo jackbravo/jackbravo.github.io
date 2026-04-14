@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2014-05-06T18:41:41.000Z'
 tags: []
+description: "Guía para configurar un ambiente de desarrollo Drupal en Ubuntu/Debian con nginx, MySQL, PHP y git."
 title: Setup de ambiente de desarrollo (ubuntu / debian)
 ---
 

@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2009-01-26T18:04:08.000Z'
 tags:
 - linux
+description: "La historia del proyecto OLPC (One Laptop Per Child) y su misión de llevar computadoras a niños de países en desarrollo."
 title: Historia de OLPC
 ---
 

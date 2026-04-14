@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2006-01-27T17:40:33.000Z'
 tags:
 - cuentos
+description: "Un cuento corto llamado El Cazador."
 title: El Cazador
 ---
 

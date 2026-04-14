@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2017-02-04T16:11:39.000Z'
 tags:
 - propósitos
+description: "Lista de propósitos para el año 2017: salir temprano, ejercicio, viajes familiares, meditación y correr con las perritas."
 title: Mis propósitos para el 2017
 ---
 

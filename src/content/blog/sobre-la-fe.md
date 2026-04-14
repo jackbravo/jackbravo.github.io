@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2013-01-27T06:17:08.000Z'
 tags:
 - religion
+description: "Reflexión sobre la fe como confianza basada en la experiencia, no como creencia ciega, y la importancia de cuestionar y probar las propias creencias."
 title: Sobre la fe
 ---
 

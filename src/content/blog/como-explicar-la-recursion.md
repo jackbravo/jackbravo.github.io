@@ -4,6 +4,7 @@ aliases:
 pubDate: '2008-09-19T17:59:04.000Z'
 tags:
 - programacion
+description: "Una explicación sencilla e intuitiva del concepto de recursión en programación, usando una analogía de historias anidadas."
 title: ¿Cómo explicar la recursión?
 ---
 

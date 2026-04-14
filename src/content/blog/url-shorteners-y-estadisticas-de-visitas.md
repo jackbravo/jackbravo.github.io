@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2009-09-23T19:06:38.000Z'
 tags: []
+description: "Cómo usar bit.ly y otros acortadores de URL para rastrear estadísticas de visitas en los enlaces compartidos en Twitter."
 title: URL shorteners y estadísticas de visitas
 ---
 

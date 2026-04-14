@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2011-01-21T15:11:27.000Z'
 tags: []
+description: "Homenaje a los Muppets con un par de videos clásicos que demuestran lo geniales que eran."
 title: Que buenos eran los Muppets!
 ---
 

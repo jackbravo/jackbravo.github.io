@@ -4,6 +4,7 @@ pubDate: '2008-12-05T20:24:08.000Z'
 tags:
 - linux
 - consola
+description: "Cómo usar wget para descargar imágenes y archivos de un servidor web de forma recursiva y automatizada en Linux."
 title: Usando wget para bajar canciones o imágenes
 ---
 

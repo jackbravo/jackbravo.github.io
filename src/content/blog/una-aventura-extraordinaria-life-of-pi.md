@@ -3,6 +3,7 @@ aliases:
 - una-aventura-extraordinaria-life-pi
 pubDate: '2013-03-12T15:50:33.000Z'
 tags: []
+description: "Reflexión sobre la película Life of Pi, la tolerancia religiosa y cómo la religión es una interpretación de la vida."
 title: Una aventura extraordinaria (Life of Pi)
 ---
 

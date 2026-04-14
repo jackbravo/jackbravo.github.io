@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2013-02-27T16:24:39.000Z'
 tags: []
+description: "Reflexión tras perder unas fotos del Salar de Uyuni y la lección de disfrutar el momento en lugar de intentar conservarlo todo."
 title: Las fotos de Uyuni
 ---
 

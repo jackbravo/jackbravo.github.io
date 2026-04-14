@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2008-11-20T16:19:13.000Z'
 tags:
 - linux
+description: "Sobre Free Geek, una organización que recicla computadoras y promueve el acceso a la tecnología de forma sostenible."
 title: Free Geek
 ---
 

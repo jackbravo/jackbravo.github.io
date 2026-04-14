@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2010-11-19T23:21:01.000Z'
 tags:
 - drupal
+description: "Cómo configurar una regla de nginx para redirigir todos los dominios con www al dominio sin www usando Aegir."
 title: redirigir los dominios www usando aegir y nginx
 ---
 

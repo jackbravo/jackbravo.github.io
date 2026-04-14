@@ -6,6 +6,7 @@ tags:
 - ubuntu
 - consola
 - shell
+description: "Comandos df y du en Linux para verificar el tamaño de particiones y carpetas desde la línea de comandos."
 title: 'Usando la consola: Cuanto miden tus particiones y carpetas?'
 ---
 

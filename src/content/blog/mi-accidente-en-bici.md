@@ -1,4 +1,5 @@
 ---
+description: "Relato del accidente en bicicleta donde me rompí el hombro durante un viaje con mis primos desde La Resolana hasta Cuastecomates."
 title: Mi accidente en bici
 pubDate: 'May 16 2023'
 heroImage: /accidente.webp

@@ -4,6 +4,7 @@ aliases:
 pubDate: '2010-05-20T14:00:16.000Z'
 tags:
 - religion
+description: "Reflexión sobre la homofobia, los prejuicios sobre la crianza en familias homosexuales y la importancia de respetar y amar a todas las personas."
 title: ¿Qué preferencia sexual quisieras que tuvieran tus hijos?
 ---
 

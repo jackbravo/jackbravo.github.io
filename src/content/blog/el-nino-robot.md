@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2011-02-05T16:11:15.000Z'
 tags:
 - cuentos
+description: "Sobre el libro El niño robot y sus reflexiones sobre la relación entre humanos y tecnología."
 title: El niño robot
 ---
 

@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2014-03-01T00:20:33.000Z'
 tags:
 - ubuntu
+description: "Guía para instalar LedgerSMB, un sistema de contabilidad de código abierto, en Ubuntu 12.04 LTS."
 title: Instalando LedgerSMB en ubuntu 12.04 LTS
 ---
 

@@ -4,6 +4,7 @@ aliases:
 pubDate: '2008-04-29T16:40:59.000Z'
 tags:
 - ubuntu
+description: "Cómo instalar codecs y formatos restringidos en Ubuntu para reproducir mp3, DVD y otros formatos multimedia."
 title: Instalar Ubuntu codecs (formatos restringidos)
 ---
 

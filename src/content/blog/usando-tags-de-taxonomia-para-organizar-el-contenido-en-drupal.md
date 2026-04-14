@@ -5,6 +5,7 @@ pubDate: '2008-08-26T19:26:34.000Z'
 tags:
 - drupal
 - axai
+description: "Cómo usar tags de taxonomía en Drupal para organizar contenido de manera consistente y mejorar el SEO del sitio."
 title: Usando tags de taxonomía para organizar el contenido en drupal
 ---
 

@@ -2,6 +2,7 @@
 aliases: []
 pubDate: '2014-08-28T16:24:39.000Z'
 tags: []
+description: "Los votos matrimoniales que Liz y Joaquín escribieron para su boda, inspirados en los votos tradicionales pero personalizados."
 title: Los votos de Liz y Joaquín
 ---
 
