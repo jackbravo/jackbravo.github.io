@@ -2,7 +2,7 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('blog'));
@@ -11,12 +11,15 @@ const tagsAndCounts = uniqueTags.map((tag) => {
     const count = posts.filter((post) => post.data.tags?.includes(tag || "none")).length;
 	return { count, tag }
 })
+
+const pageTitle = `Tags - ${SITE_TITLE}`;
+const pageDescription = `Lista de todos los tags usados en ${SITE_TITLE}`;
 ---
 
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={pageTitle} description={pageDescription} />
 		<style>
 			ul {
 				list-style-type: none;
