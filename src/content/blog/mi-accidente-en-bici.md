@@ -1,7 +1,7 @@
 ---
 title: Mi accidente en bici
 pubDate: 'May 16 2023'
-heroImage: /accidente.png
+heroImage: /accidente.webp
 tags:
 - bicicleta
 ---

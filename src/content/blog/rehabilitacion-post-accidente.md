@@ -1,7 +1,7 @@
 ---
 title: Rehabilitación post accidente
 pubDate: 'Feb 27 2024'
-heroImage: /acostado.jpg
+heroImage: /acostado.webp
 tags:
 - bicicleta
 ---
@@ -56,22 +56,22 @@ Si me clavara en eso, bien podría llorar todos los días. Pero justo decidí me
 
 ## Agradecimiento
 
-![en la playa](/playa_liz.png)
+![en la playa](/playa_liz.webp)
 
 Creo que sobre todo estoy muy agradecido primero que nada con esposa, que ha sido mi enfermera, mi amiga, mi acompañante, mi consejera, mi terapeuta, mi compañera de meditación. El dolor a un lado, creo que mi golpe fue durísimo con ella, y sin embargo, siempre ha estado ahí para mi y mi familia. Mis hijos también aprendieron a convivir con su papá, a tratarme con cuidado cuando antes yo era su campo de juegos y batallas, y por suerto poco a poco empiezo a recuperar ese papel. Me supieron esperar y veo sus caras de felicidad cuando podemos jugar a las luchitas otra vez. Mis papás fueron un gran soporte también, al igual que mis suegros, cuidando a mis hijos, y ayudándome con la rehabilitación.
 
 Al final no queda mas que apreciar la salud que tenemos, y agradecer a la vida por cada día. Pasé de solo poder convivir con mi familia desde la cama:
 
-![desde la cama](/acostado.jpg)
+![desde la cama](/acostado.webp)
 
 A poder ir a caminar con ellos al bosque o a acampar a la playa:
 
-![en el bosque](/bosque_familia.png)
+![en el bosque](/bosque_familia.webp)
 
 Poder cargar a tus hijos mientras crecen no tiene precio:
 
-![cargando a Amelie](/piedras_amelie.png)
+![cargando a Amelie](/piedras_amelie.webp)
 
 La salud es algo que damos por sentado, hasta que se ve amenazada. Definitivamente es mi caso. Espero poder correr un medio maratón en el futuro, y seguir disfrutando de la vida con mi familia. A entrenar.
 
-![zapopan](/zapopan.png)
+![zapopan](/zapopan.webp)

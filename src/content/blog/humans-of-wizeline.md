@@ -1,7 +1,7 @@
 ---
 title: Humans of Wizeline, Joaquín Bravo
 pubDate: 'Apr 24 2023'
-heroImage: /joaquin-arbol.png
+heroImage: /joaquin-arbol.webp
 tags:
 - programacion
 ---
