@@ -5,6 +5,7 @@ tags:
 - php
 - drupal
 description: "Configuración de vim como cliente de xdebug para debuguear PHP, comparando con NetBeans, PHPStorm y Eclipse."
+heroImage: /vimdebugger.png
 title: Debuguear PHP con vim y xdebug
 ---
 

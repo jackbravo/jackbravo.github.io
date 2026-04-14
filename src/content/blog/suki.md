@@ -3,6 +3,7 @@ aliases: []
 pubDate: '2017-02-21T19:54:43.000Z'
 tags: []
 description: "Homenaje a Suki, una perrita intensa, cariñosa y llena de energía que fue parte de la familia y se fue demasiado pronto."
+heroImage: /suki.jpg
 title: Suki
 ---
 

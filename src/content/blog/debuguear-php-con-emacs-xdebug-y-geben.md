@@ -5,6 +5,7 @@ tags:
 - drupal
 - php
 description: "Tutorial para configurar xdebug y geben en emacs para debuguear PHP paso a paso, incluyendo instalación y configuración."
+heroImage: /geben2.png
 title: Debuguear php con emacs, xdebug y geben
 ---
 
