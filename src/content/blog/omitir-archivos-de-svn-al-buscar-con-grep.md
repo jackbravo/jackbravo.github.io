@@ -15,7 +15,7 @@ Para buscar recursivamente (-r) en todos los archivos dentro de `lib/widget` don
 
 Lamentablemente, cuando usas [subversion](https://subversion.tigris.org/) para algún proyecto, terminas con un montón de carpetas .svn con cadenas similares a la que buscas....
 
-Ahora, en internet hay varias maneras sugeridas para evitar buscar en estas odiosas carpetas de svn (una de las razones por las que prefiero mil veces [git](https://git.or.cz/), que solo tiene una carpeta .git en el root de tu proyecto.... pero me estoy desviando). La que más me gustó, porque no involucra opciones confusas que tienes que recordar cada que escribes el comando, es agregar unas opciones a tu archivo .bashrc y listo ;-).
+Ahora, en internet hay varias maneras sugeridas para evitar buscar en estas odiosas carpetas de svn (una de las razones por las que prefiero mil veces [git](https://git-scm.com/), que solo tiene una carpeta .git en el root de tu proyecto.... pero me estoy desviando). La que más me gustó, porque no involucra opciones confusas que tienes que recordar cada que escribes el comando, es agregar unas opciones a tu archivo .bashrc y listo ;-).
 
     GREP_OPTIONS="--exclude=\*.svn\*"
     export GREP_OPTIONS

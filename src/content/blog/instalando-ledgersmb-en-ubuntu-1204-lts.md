@@ -23,7 +23,7 @@ Fcgiwrap se usa para correr perl. Este artículo fue esado como referencia: http
 
 Hay otras opciones para correr perl en nginx:
 
-- https://mikkel.hoegh.org/blog/2012/04/05/deploying-ledgersmb-with-nginx-and-plack-on-freebsd/
+- https://mikkel.hoegh.org/2012/04/05/deploying-ledgersmb-nginx-and-plack-freebsd/
 - https://nginxlibrary.com/perl-fastcgi/
 
 Pero esta parece ser la más sencilla.

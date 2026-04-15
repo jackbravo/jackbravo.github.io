@@ -13,7 +13,7 @@ Llevo algún rato intentando rastrear de manera eficaz algunos módulos de drupa
 
 Lamentablemente, en drupal todavía usan CVS para administrar el código. El código que usan para administrar los projectos en drupal.org (releases, registro de bugs, descargas, etc) está basado en CVS, y aunque poco a poco avanzan para hacerlo más independiente de CVS y poder utilizar subversion o cualquier otra cosa, pues es algo que va a tomar todavía algo de tiempo.
 
-Así que la solución que más me agrada es seguir el avance de estos repositorios utilizando git ;-). <a href="https://mikkel.hoegh.org/blog/2008/a_git_mirror_for_drupal_cvs">Este</a> blog te dice cómo hacerlo en inglés. Los pasos son simples. El comando de git-cvsimport actúa en la carpeta en la que estás ubicado a menos que utilices la opción de -C para decirle a qué carpeta quieres importar, así que crea una carpeta para tu repositorio antes de empezar.
+Así que la solución que más me agrada es seguir el avance de estos repositorios utilizando git ;-). <a href="https://mikkel.hoegh.org/2008/02/19/git-mirror-drupal-cvs/">Este</a> blog te dice cómo hacerlo en inglés. Los pasos son simples. El comando de git-cvsimport actúa en la carpeta en la que estás ubicado a menos que utilices la opción de -C para decirle a qué carpeta quieres importar, así que crea una carpeta para tu repositorio antes de empezar.
 
 <code>$ mkdir spaces
 $ cd spaces

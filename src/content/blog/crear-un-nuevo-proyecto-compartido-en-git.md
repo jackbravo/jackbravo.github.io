@@ -7,7 +7,7 @@ description: "Cómo crear un repositorio git compartido en un servidor público 
 title: Crear un nuevo proyecto compartido en git
 ---
 
-Aquí en la oficina hemos estado utilizando [git](https://git.or.cz/) desde hace ya algunos meses. Una de las cosas que nos daba más flojera hacer era crear repositorios públicos que pudiéramos compartir varios compañeros aquí en la oficina. Los pasos que vienen en el [Manual de git](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#setting-up-a-public-repository) para crear un repositorio público son algo tediosos, porque involucran clonar tu repositorio localmente y después copiarlo a la ubicación pública, lo que puede ser muy pero muy tardado si tu repositorio es grande y tu ubicación pública está en otro servidor.
+Aquí en la oficina hemos estado utilizando [git](https://git-scm.com/) desde hace ya algunos meses. Una de las cosas que nos daba más flojera hacer era crear repositorios públicos que pudiéramos compartir varios compañeros aquí en la oficina. Los pasos que vienen en el [Manual de git](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html#setting-up-a-public-repository) para crear un repositorio público son algo tediosos, porque involucran clonar tu repositorio localmente y después copiarlo a la ubicación pública, lo que puede ser muy pero muy tardado si tu repositorio es grande y tu ubicación pública está en otro servidor.
 
 Hace poco, en [github](https://github.com) encontramos una alternativa diferente para hacer esto, en donde primero creas el repositorio vacío en tu ubicación pública y después "empujas" tu proyecto desde git.
 

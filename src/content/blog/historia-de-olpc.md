@@ -11,10 +11,10 @@ No se si estén enterados de cómo va el asunto del proyecto [OLPC](https://www.
 
 [Este artículo](https://gizmodo.com/5041765/secret-origin-of-the-olpc-genius-hubris-and-the-birth-of-the-netbook) habla más sobre la historia de este interesante proyecto.
 
-Si quieren ver cómo corre el sistema operativo del OLPC (Sugar) también hay manera de [correrlo desde tu computadora](https://sugarlabs.org/go/Sugar_on_a_Stick) (ya sea que tengas windows, mac os x o linux ;-) gracias a la magia de los LiveCDs o de la virtualización.
+Si quieren ver cómo corre el sistema operativo del OLPC (Sugar) también hay manera de [correrlo desde tu computadora](https://www.distrowiz.com/sugar-on-a-stick/) (ya sea que tengas windows, mac os x o linux ;-) gracias a la magia de los LiveCDs o de la virtualización.
 
-Sea como sea, el OLPC es un gran proyecto que si bien quien sabe si termine o continue ha cambiado la industria de las computadoras y creado una nueva rama de laptops (las 5 [laptops más vendidas en amazon](https://www.amazon.com/gp/bestsellers/electronics/565108/ref=pd_zg_hrsr_e_1_2_last) son netbooks).
+Sea como sea, el OLPC es un gran proyecto que si bien quien sabe si termine o continue ha cambiado la industria de las computadoras y creado una nueva rama de laptops (las 5 laptops más vendidas en amazon son [netbooks](https://en.wikipedia.org/wiki/Netbook)).
 
-Les dejo también este video del sitio de OLPC.
+Les dejo también este video sobre OLPC.
 
-<iframe width="480" height="291" src="https://www.youtube.com/embed/c-M77C2ejTw" title="OLPC Mission, Part 1: Principles and Child Empowerment" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="291" src="https://www.youtube.com/embed/fLJYWc6NZt0" title="OLPC Mission, Part 1: Principles and Child Empowerment" frameborder="0" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ Git es un sistema de control de versiones distribuido. Es decir, un programa tip
 
 En Ubuntu 7.10 puedes instalar git usando apt-get. Lamentablemente la versión que instala es la 1.5.2 que ya es algo viejita. Actualmente git está en la versión 1.5.4 que trae bastantes mejoras, particularmente las que te permiten manejar submódulos en git (introducidas desde la versión 1.5.3).
 
-Para esto vamos a tener que compilar git, así que manos a la obra. Primero tenemos que obtener el código fuente de git de su <a href="https://git.or.cz">página</a>.
+Para esto vamos a tener que compilar git, así que manos a la obra. Primero tenemos que obtener el código fuente de git de su <a href="https://git-scm.com/">página</a>.
 
 <code> > wget http://kernel.org/pub/software/scm/git/git-1.5.4.1.tar.gz
  > tar -zxf git-1.5.4.1.tar.gz
@@ -39,4 +39,4 @@ Ahora puedes usar la última versión de git ;-). Pruébalo con.
  > git config --global user.name "Your Name Comes Here"
  > git config --global user.email you@yourdomain.example.com</code>
 
-Si quieres aprender a usar git te recomiendo el <a href="https://www.kernel.org/pub/software/scm/git/docs/tutorial.html">manual de introducción</a> y en general toda la documentación de la página de <a href="https://git.or.cz">git</a>.
+Si quieres aprender a usar git te recomiendo el <a href="https://www.kernel.org/pub/software/scm/git/docs/gittutorial.html">manual de introducción</a> y en general toda la documentación de la página de <a href="https://git-scm.com/">git</a>.
