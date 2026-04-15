@@ -18,23 +18,33 @@ import { SITE_TITLE } from '../consts';
 				padding: 3em 1em;
 			}
 			.error-content img {
-				width: 200px;
-				height: 200px;
+				width: 640px;
+				height: 640px;
 				margin-bottom: 1.5em;
 			}
 			.error-content h1 {
 				font-size: 4em;
 				margin: 0;
-				color: #222;
+				color: var(--color-heading);
 			}
 			.error-content p {
-				font-size: 1.1em;
-				color: #595959;
+				font-size: 1.2em;
+				color: var(--color-meta);
 				margin: 0.5em 0 1.5em;
+				max-width: 400px;
 			}
 			.error-content a {
-				color: #3273dc;
+				color: var(--color-link);
 				font-size: 1.1em;
+			}
+			@media (max-width: 700px) {
+				.error-content img {
+					width: 320px;
+					height: 320px;
+				}
+				.error-content h1 {
+					font-size: 3em;
+				}
 			}
 		</style>
 	</head>
@@ -42,7 +52,7 @@ import { SITE_TITLE } from '../consts';
 		<Header title={SITE_TITLE} />
 		<main>
 			<div class="error-content">
-				<img src="/gaceta_1.png" alt="La gaceta de la cabeza" />
+				<img src="/gaceta_1.png" alt="La gaceta de la cabeza" width="640" height="640" />
 				<h1>404</h1>
 				<p>¡Ups! Esta página se perdió en el ciberespacio.</p>
 				<a href="/">← Volver al inicio</a>
