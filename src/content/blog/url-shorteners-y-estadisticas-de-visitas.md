@@ -6,11 +6,11 @@ description: "Cómo usar bit.ly y otros acortadores de URL para rastrear estadí
 title: URL shorteners y estadísticas de visitas
 ---
 
-Hace algún tiempo, y por culpa de Twitter, comencé a utilizar los servicios de acortadores de URL - chale que mal se oye en español - como http://tinyurl.com.
+Hace algún tiempo, y por culpa de Twitter, comencé a utilizar los servicios de acortadores de URL - chale que mal se oye en español - como https://tinyurl.com.
 
-Lo que hacen estos servicios es tomar el URL sobre el que quieres twittear - normalmente algo largo como http://groups.drupal.org/node/27562 - y darte una versión cortita - http://bit.ly/JkBzM - de manera que tienes más caracteres disponibles para que tu tweet no pase de los 140 caracteres.
+Lo que hacen estos servicios es tomar el URL sobre el que quieres twittear - normalmente algo largo como https://groups.drupal.org/node/27562 - y darte una versión cortita - https://bit.ly/JkBzM - de manera que tienes más caracteres disponibles para que tu tweet no pase de los 140 caracteres.
 
-Luego salieron más servicios de acortadores y twitter decidió quedarse con http://bit.ly como acortador predeterminado. Lo interesante de bit.ly es que te permite llevar un tracking muy sencillo de los URLs que acortas con su servicio. Simplemente tienes que agregar un + al URL que te da bit.ly y esto te llevará a una página que te muestra la cantidad de veces que tu link ha sido visitado. Por ejemplo en http://bit.ly/JkBzM+
+Luego salieron más servicios de acortadores y twitter decidió quedarse con https://bit.ly como acortador predeterminado. Lo interesante de bit.ly es que te permite llevar un tracking muy sencillo de los URLs que acortas con su servicio. Simplemente tienes que agregar un + al URL que te da bit.ly y esto te llevará a una página que te muestra la cantidad de veces que tu link ha sido visitado. Por ejemplo en https://bit.ly/JkBzM+
 
 Bastante útil no?
 

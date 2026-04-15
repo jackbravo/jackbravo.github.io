@@ -10,7 +10,7 @@ title: Hacking Business Model
 
 Cuando a uno le gusta el software libre siempre se buscan maneras de lograr negocios que funcionen de esa manera. Negocios abiertos como el software que producen. Que le den más importancia a las personas que a la empresa, donde sea divertido trabajar, donde cada quién asuma sus propias responsabilidades y se interesen por hacer que el negocio prospere, que sean más horizontales y que produzcan riqueza para sus miembros, para la comunidad en la que están y para el mundo (en forma de más software libre ;-).
 
-En esa búsqueda me encontré por ahí el [Hacking Business Model](http://askmonty.org/wiki/index.php/The_hacking_business_model) publicado por [Monty](http://monty-says.blogspot.com/) el creador de MySQL. Me pareció sumamente interesante y una buena fuente de inspiración.
+En esa búsqueda me encontré por ahí el [Hacking Business Model](https://askmonty.org/wiki/index.php/The_hacking_business_model) publicado por [Monty](https://monty-says.blogspot.com/) el creador de MySQL. Me pareció sumamente interesante y una buena fuente de inspiración.
 
 Aquí pongo el contenido traducido al español para el que le interese y por referencia. Ese tipo de cosas siento que se leen mejor en el idioma natural (el software en cambio siempre se lee mejor en inglés).
 
@@ -21,7 +21,7 @@ Hacking Business Model...
 Propósito principios y métodos
 ======================
 
-Tomado de [Ask Monty](http://askmonty.org/wiki/index.php/The_hacking_business_model).
+Tomado de [Ask Monty](https://askmonty.org/wiki/index.php/The_hacking_business_model).
 
 Propósito
 --------------
@@ -165,7 +165,7 @@ Los dueños del 51% de las acciones con derecho a voto (inicialmente sólo los f
 Condiciones de uso / Cómo utilizar
 ==================================
 
-Este documento está en [Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0). Siéntase libre para compartirlo y modificarlo.
+Este documento está en [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0). Siéntase libre para compartirlo y modificarlo.
 
 Estas reglas no están escritas de acuerdo a ninguna legislación ni se espera que sean válidas en ningún país. La idea es que cada empleado reciba un contrato de acuerdo a la jurisdicción de su país que contenga los mismos beneficios y responsabilidades que este documento hasta donde sea legalmente posible.
 
@@ -177,6 +177,6 @@ Si tu empresa se suscribe a estas reglas, por favor agrega un link a esta págin
 Créditos
 ========
 
-Creado por Zak Greant y Michael Widenius. Publicado primero por Zack Greant en [este blog](http://zak.greant.com/hacking-business-models).
+Creado por Zak Greant y Michael Widenius. Publicado primero por Zack Greant en [este blog](https://zak.greant.com/hacking-business-models).
 
-Algunas entradas fueron inspiradas por el [Tao de Linden](http://blog.secondlife.com/2006/07/25/the-tao-of-linden)
+Algunas entradas fueron inspiradas por el [Tao de Linden](https://blog.secondlife.com/2006/07/25/the-tao-of-linden)

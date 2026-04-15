@@ -24,4 +24,4 @@ Esta solución funciona en ubuntu 8.04, 7.10 y creo que también el 7.04.
 
 La razón por la que estos paquetes no son instalados desde un principio es que estos son formatos restringidos por su licencia. No son formatos libres sino que son propietarios de alguna compañía o grupo que requiere el pago de alguna regalía o impone alguna restricción (mediante patentes o algún otro medio) para poder utilizarlos.
 
-Si quieres leer más información sobre este tema te recomiendo esta página: http://doc.ubuntu-es.org/Formatos_libres
+Si quieres leer más información sobre este tema te recomiendo esta página: https://doc.ubuntu-es.org/Formatos_libres

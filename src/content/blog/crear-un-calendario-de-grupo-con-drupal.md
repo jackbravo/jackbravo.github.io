@@ -15,11 +15,11 @@ Este tutorial es para sitios en drupal que utilizan el módulo de organic groups
 
 Primero necesitas tener los siguientes módulos en tu sites/all/modules:
 
-- [og](http://drupal.org/project/og)
-- [cck](http://drupal.org/project/cck)
-- [date](http://drupal.org/project/date)
-- [views](http://drupal.org/project/views)
-- [calendar](http://drupal.org/project/calendar)
+- [og](https://drupal.org/project/og)
+- [cck](https://drupal.org/project/cck)
+- [date](https://drupal.org/project/date)
+- [views](https://drupal.org/project/views)
+- [calendar](https://drupal.org/project/calendar)
 
 Los módulos que necesitas habilitar para que esto funcione (suponiendo que ya tienes og habilitado) son como mínimo: content, calendar, date, date api, date timezone, views y views ui. Al crear sitios con drupal lo mejor es habilitar los menos módulos posibles, ya que cada módulo que instalas tiene un impacto en el desempeño de tu sitio.
 
@@ -58,10 +58,10 @@ Los argumentos sirven para personalizar tu vista de acuerdo a información que r
 
 2. Vamos a agregar un argumento: Grupos: Grupos. Este argumento lo que hace es mostrar únicamente los nodos que pertenezcan al grupo que especifiques en el argumento. Add. 
 
-  ![Agregar grupo](http://joaquin.axai.mx/sites/joaquin.axai.mx/files/argumento_grupo.png)
+  ![Agregar grupo](https://joaquin.axai.mx/sites/joaquin.axai.mx/files/argumento_grupo.png)
 
 3. Este argumento de grupo debe aparecer antes del argumento de fecha, así que hay que reordenarlos presionando este ícono: 
 
 4. Hay que modificar la ruta de la vista de página para que sepa que forzosamente debe llevar un argumento, así que la vamos a cambiar de calendara calendario/%
 
-Y listo, con esto ya sabes lo básico para adecuarla a tus necesidades. Si navegas en tu sitio a (/calendario/id_de_un_grupo)[http://fef-apostolado.org/calendario/50], podrás ver tu vista de calendario ;-).
+Y listo, con esto ya sabes lo básico para adecuarla a tus necesidades. Si navegas en tu sitio a (/calendario/id_de_un_grupo)[https://fef-apostolado.org/calendario/50], podrás ver tu vista de calendario ;-).

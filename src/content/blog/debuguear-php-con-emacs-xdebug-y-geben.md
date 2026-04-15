@@ -9,7 +9,7 @@ heroImage: /geben2.png
 title: Debuguear php con emacs, xdebug y geben
 ---
 
-Una de las cosas más útiles que puedes aprender para debuguear un programa en PHP es a usar [xdebug](http://www.xdebug.org/). Y la verdad no es nada complicado.
+Una de las cosas más útiles que puedes aprender para debuguear un programa en PHP es a usar [xdebug](https://www.xdebug.org/). Y la verdad no es nada complicado.
 
 __Paso 1__. Instalar xdebug. Eso lo puedes hacer con un simple `sudo apt-get install php5-xdebug`. Lo malo es que en ubuntu 10.04 (nuestros servers de prueba) se instala una versión viejita. Se necesita la versión 2.1 para que funcionen cosas padres como inspeccionar variables. Instalarlo en ubuntu tampoco es difícil.
 
@@ -52,6 +52,6 @@ __Cuidado!!!__ No lo uses en tu servidor de producción, porque el desempeño ba
 
 ### Referencias:
 
-- http://ocdevel.com/blog/xdebug-geben-emacs-php-ubuntu-104
-- http://blog.abourget.net/2010/9/13/geben-+-emacs-+-ubuntu-and-make-the-debugging-work/
-- http://code.google.com/p/geben-on-emacs/source/browse/trunk/geben.el?r=119
+- https://ocdevel.com/blog/xdebug-geben-emacs-php-ubuntu-104
+- https://blog.abourget.net/2010/9/13/geben-+-emacs-+-ubuntu-and-make-the-debugging-work/
+- https://code.google.com/p/geben-on-emacs/source/browse/trunk/geben.el?r=119

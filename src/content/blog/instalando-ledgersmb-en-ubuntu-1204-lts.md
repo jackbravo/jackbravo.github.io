@@ -7,7 +7,7 @@ description: "Guía para instalar LedgerSMB, un sistema de contabilidad de códi
 title: Instalando LedgerSMB en ubuntu 12.04 LTS
 ---
 
-Basado en http://sourceforge.net/p/ledger-smb/code/HEAD/tree/branches/1.3/INSTALL
+Basado en https://sourceforge.net/p/ledger-smb/code/HEAD/tree/branches/1.3/INSTALL
 
 0. Bajar la última versión de ledgersmb. Yo la puse en la carpeta: /var/www/vhosts/ledger.axai.mx/public
 
@@ -23,8 +23,8 @@ Fcgiwrap se usa para correr perl. Este artículo fue esado como referencia: http
 
 Hay otras opciones para correr perl en nginx:
 
-- http://mikkel.hoegh.org/blog/2012/04/05/deploying-ledgersmb-with-nginx-and-plack-on-freebsd/
-- http://nginxlibrary.com/perl-fastcgi/
+- https://mikkel.hoegh.org/blog/2012/04/05/deploying-ledgersmb-with-nginx-and-plack-on-freebsd/
+- https://nginxlibrary.com/perl-fastcgi/
 
 Pero esta parece ser la más sencilla.
 
