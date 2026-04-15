@@ -5,10 +5,9 @@ tags:
 - drupal
 - php
 description: "Tutorial para configurar xdebug y geben en emacs para debuguear PHP paso a paso, incluyendo instalación y configuración."
+heroImage: /geben2.png
 title: Debuguear php con emacs, xdebug y geben
 ---
-
-![geben2.png](/geben2.png)
 
 Una de las cosas más útiles que puedes aprender para debuguear un programa en PHP es a usar [xdebug](http://www.xdebug.org/). Y la verdad no es nada complicado.
 

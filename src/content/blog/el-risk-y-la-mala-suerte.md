@@ -3,10 +3,9 @@ aliases: []
 pubDate: '2011-04-26T06:30:38.000Z'
 tags: []
 description: "Reflexiones sobre el juego de mesa Risk y cómo la suerte influye en el resultado más de lo que parece."
+heroImage: /3324.jpg
 title: El Risk y la mala suerte
 ---
-
-![3324.jpg](/3324.jpg)
 
 Vengo de la peor partida de [Risk](http://es.wikipedia.org/wiki/Risk) que he jugado en la vida. Con decir que en mi último intento de ataque perdí más de 15 tropas mientras a mi rival le quité sólamente 6. Fuí el primero en salir y aunque al final al menos me divertí mientras todos gritaban en mi última batalla, la verdad uno no puede quedar satisfecho después de semejante paliza.
 

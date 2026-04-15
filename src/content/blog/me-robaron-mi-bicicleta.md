@@ -4,10 +4,9 @@ pubDate: '2008-12-03T00:36:07.000Z'
 tags:
 - bicicleta
 description: "Relato sobre el robo de mi bicicleta y reflexiones sobre la confianza y los tiempos que vivimos."
+heroImage: /me-robaron-mi-bicicleta.jpg
 title: Me robaron mi bicicleta
 ---
-
-<a href="http://www.flickr.com/photos/jackbravo/2430407912/" title="RIP bici by jackbravo, on Flickr"><img src="http://farm4.static.flickr.com/3164/2430407912_298ee04536.jpg" width="500" height="334" alt="RIP bici" /></a>
 
 Me robaron mi bicicleta hace unas cuantas semanas, de hecho hace algunos meses ya. Es muy triste porque realmente me gustaba poder venirme en bici a la oficina, ahorita no hago mucho ejercicio que digamos.
 
