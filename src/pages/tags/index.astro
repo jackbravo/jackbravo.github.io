@@ -20,23 +20,6 @@ const pageDescription = `Lista de todos los tags usados en ${SITE_TITLE}`;
 <html lang="es">
 	<head>
 		<BaseHead title={pageTitle} description={pageDescription} />
-		<style>
-			ul {
-				list-style-type: none;
-				padding: unset;
-			}
-			ul li {
-				display: flex;
-			}
-			ul li :global(time) {
-				flex: 0 0 130px;
-				font-style: italic;
-				color: #595959;
-			}
-			ul li a:visited {
-				color: #8e32dc;
-			}
-		</style>
 	</head>
 	<body>
 		<Header />
