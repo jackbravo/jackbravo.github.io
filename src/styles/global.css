@@ -2,18 +2,45 @@
   The CSS in this style tag is based off of Bear Blog's default CSS.
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+*/
+
+:root {
+	--color-bg: #fff;
+	--color-text: #444;
+	--color-heading: #222;
+	--color-link: #3273dc;
+	--color-link-visited: #8e32dc;
+	--color-code-bg: #f2f2f2;
+	--color-blockquote-border: #999;
+	--color-hr: #ddd;
+	--color-meta: #595959;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-bg: #1a1a2e;
+		--color-text: #c8c8d4;
+		--color-heading: #e0e0ec;
+		--color-link: #6ea8fe;
+		--color-link-visited: #b388ff;
+		--color-code-bg: #2a2a40;
+		--color-blockquote-border: #666;
+		--color-hr: #444;
+		--color-meta: #a0a0b4;
+	}
+}
+
 body {
 	font-family: Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
 	text-align: left;
-	background-color: #fff;
+	background-color: var(--color-bg);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #444;
+	color: var(--color-text);
 }
 h1,
 h2,
@@ -23,10 +50,13 @@ h5,
 h6,
 strong,
 b {
-	color: #222;
+	color: var(--color-heading);
 }
 a {
-	color: #3273dc;
+	color: var(--color-link);
+}
+a:visited {
+	color: var(--color-link-visited);
 }
 nav a {
 	margin-right: 10px;
@@ -50,7 +80,7 @@ img {
 }
 code {
 	padding: 2px 5px;
-	background-color: #f2f2f2;
+	background-color: var(--color-code-bg);
 }
 pre {
 	padding: 1rem;
@@ -59,8 +89,8 @@ pre > code {
 	all: unset;
 }
 blockquote {
-	border-left: 6px solid #999;
-	color: #222;
+	border-left: 6px solid var(--color-blockquote-border);
+	color: var(--color-heading);
 	padding: 0px 0px 0px 20px;
 	margin: 0px;
 	font-style: italic;
@@ -75,8 +105,12 @@ ul li {
 ul li time {
 	flex: 0 0 130px;
 	font-style: italic;
-	color: #595959;
+	color: var(--color-meta);
 }
 ul li a:visited {
-	color: #8e32dc;
+	color: var(--color-link-visited);
+}
+hr {
+	border: none;
+	border-top: 1px solid var(--color-hr);
 }
