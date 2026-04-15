@@ -4,6 +4,7 @@ title: Migré mi blog de Gastby a Astro con ayuda de ChatGPT
 pubDate: 'May 11 2023'
 tags:
 - programacion
+- ia
 ---
 
 Acabo de migrar mi blog a [astro](https://astro.build/). Tenía ganas desde hace rato, la verdad es que [gatsby](https://github.com/jackbravo/gatsby-jackbravo) había caído de mis preferencias como plataforma para sitios estáticos desde hacía rato. Para un texto (en inglés) bastante completo al respecto, recomiendo este blog sobre [Gatsby vs Next](https://jaredpalmer.com/blog/gatsby-vs-nextjs) que es muy bueno. El resumen es que:
