@@ -21,6 +21,7 @@ export async function GET(context) {
 			};
 		})
 	);
+	items.sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 	return rss({
 		title: SITE_TITLE,
 		description: SITE_DESCRIPTION,
