@@ -129,3 +129,9 @@ article ul li time {
 article iframe {
 	display: block;
 }
+
+@media (prefers-color-scheme: dark) {
+	img.gaceta {
+		filter: invert(1);
+	}
+}
