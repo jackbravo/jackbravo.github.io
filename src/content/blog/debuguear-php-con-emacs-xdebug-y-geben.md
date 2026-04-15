@@ -9,8 +9,6 @@ heroImage: /geben2.png
 title: Debuguear php con emacs, xdebug y geben
 ---
 
-![geben2.png](/geben2.png)
-
 Una de las cosas más útiles que puedes aprender para debuguear un programa en PHP es a usar [xdebug](http://www.xdebug.org/). Y la verdad no es nada complicado.
 
 __Paso 1__. Instalar xdebug. Eso lo puedes hacer con un simple `sudo apt-get install php5-xdebug`. Lo malo es que en ubuntu 10.04 (nuestros servers de prueba) se instala una versión viejita. Se necesita la versión 2.1 para que funcionen cosas padres como inspeccionar variables. Instalarlo en ubuntu tampoco es difícil.

@@ -9,8 +9,6 @@ heroImage: /vimdebugger.png
 title: Debuguear PHP con vim y xdebug
 ---
 
-![vimdebugger.png](/vimdebugger.png)
-
 UPDATE: cambié el plugin de vim que se utiliza para debuguear por uno más nuevo mantenido en github.
 
 El día de hoy estuve probando varios IDEs para PHP, porque quería debuguear un script con XDebug en lugar de utilizando echos, krumos y exits. Es decir, me quería ver más fresón. Y me daba flojera utilizar emacs que es lo que antes he descrito que puedes utilizar para [debuguear PHP](/debuguear-php-con-emacs-xdebug-y-geben). Así que me bajé y probé:
