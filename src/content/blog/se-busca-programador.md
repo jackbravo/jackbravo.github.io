@@ -25,10 +25,3 @@ __Programador de aplicaciones__
 Necesitamos alguien que sepa o no le intimide programar en C y C++. Aquí vas a programar interfaces para pruebas de un co-procesador de video para (hint hint, guiño guiño) importante empresa.
 
 Dudas pues me pueden contactar por [aquí](https://axai.com.mx/contact) y pues si conocen a alguien que le interese le platican también.
-
----
-
-Para ver otras formas de comunicar este mismo mensaje chequen los posts de mis compañeros:
- 
-- https://bit.ly/186qo5
-- https://bit.ly/EPtcM
