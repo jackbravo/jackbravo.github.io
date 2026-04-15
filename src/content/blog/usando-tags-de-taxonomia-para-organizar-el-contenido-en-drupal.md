@@ -17,12 +17,10 @@ En la página de <a href="https://axai.com.mx">axai</a> contamos con un blog emp
 
 Les pongo un ejemplo. Hace poco empezamos a subir artículos con los sitios que hemos estado terminando. Los tags que les estamos poniendo a estos artículos son:
 
-<ul>
-<li><a href="https://axai.com.mx/es/tags/drupal">drupal</a>: cuando el artículo en general tiene que ver con drupal</li>
-<li><a href="https://axai.com.mx/es/tags/sitios-en-drupal">sitios en drupal</a>: cuando el sitio está hecho en drupal</li>
-<li><a href="https://axai.com.mx/es/tags/portafolio">portafolio</a>: cuando es un sitio que podemos mostrar como parte de nuestro portafolio</li>
-<li><em><a href="https://axai.com.mx/es/tags/Axai">nombre del cliente</a></em></li>
-</ul>
+- `drupal`: cuando el artículo en general tiene que ver con drupal
+- `sitios en drupal`: cuando el sitio está hecho en drupal
+- `portafolio`: cuando es un sitio que podemos mostrar como parte de nuestro portafolio
+- `nombre del cliente`
 
 Así, cuando queramos montar una liga a nuestro portafolio en nuestro sitio, no tendremos más que apuntar a ese tag. O cuando queramos mostrar sitios hechos en drupal únicamente (también tenemos sitios con symfony o en flash), o todos los artículos relacionados con algún cliente, o..... tienen la idea no?
 
