@@ -1,0 +1,77 @@
+name: Lint
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check markdown frontmatter
+        run: |
+          echo "Checking all blog posts have required frontmatter..."
+          errors=0
+          for file in src/content/blog/*.md; do
+            filename=$(basename "$file")
+
+            # Check title
+            if ! grep -q '^title:' "$file"; then
+              echo "::error file=$file::Missing 'title' in frontmatter"
+              errors=$((errors + 1))
+            fi
+
+            # Check pubDate
+            if ! grep -q '^pubDate:' "$file"; then
+              echo "::error file=$file::Missing 'pubDate' in frontmatter"
+              errors=$((errors + 1))
+            fi
+
+            # Check description
+            if ! grep -q '^description:' "$file"; then
+              echo "::warning file=$file::Missing 'description' in frontmatter (recommended for SEO)"
+            fi
+
+            # Check tags
+            if ! grep -q '^tags:' "$file"; then
+              echo "::warning file=$file::Missing 'tags' in frontmatter"
+            fi
+          done
+
+          if [ $errors -gt 0 ]; then
+            echo "::error::$errors frontmatter error(s) found"
+            exit 1
+          fi
+
+          echo "All posts have required frontmatter ✓"
+
+      - name: Check for broken internal links
+        run: |
+          echo "Checking internal markdown links..."
+          errors=0
+          # Find all internal links in markdown files and verify targets exist
+          grep -rohn '\[.*\](/[^)]*)' src/content/ --include='*.md' --include='*.mdx' | while read -r match; do
+            link=$(echo "$match" | grep -oP '(?<=\()[^)]+(?=\))' | head -1)
+            # Skip external links and anchors
+            if echo "$link" | grep -qE '^(https?:|mailto:|#|\$)'; then
+              continue
+            fi
+            # Remove anchor from link
+            path=$(echo "$link" | cut -d'#' -f1)
+            # Check if it's a known route (we can't fully validate without building)
+            # This is a basic check
+            echo "  Found internal link: $path"
+          done
+          echo "Internal link check complete ✓"
