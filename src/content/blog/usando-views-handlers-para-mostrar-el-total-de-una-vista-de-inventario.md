@@ -110,4 +110,4 @@ Y finalmente, viene el bueno, nuestro handler:
 
 Puedes inspeccionar el $this->view->result con un print_r o un krumo (si tienes devel instalado) para ver qué variables te pueden servir.
 
-Para hacer este modulito me basé mucho en el código del submodulo line_item del módulo [commerce](http://drupal.org/project/commerce) para Drupal 7.
+Para hacer este modulito me basé mucho en el código del submodulo line_item del módulo [commerce](https://drupal.org/project/commerce) para Drupal 7.

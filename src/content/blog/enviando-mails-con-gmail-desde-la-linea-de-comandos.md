@@ -10,9 +10,9 @@ description: "Cómo configurar msmtp o sendmail para enviar correos desde la lí
 title: Enviando mails con gmail desde la línea de comandos
 ---
 
-Desde que linux es linux el hombre se ha preguntado por la manera más eficiente para comunicarse con otras personas. Hmmmm, perdón por ese inicio tan raro, es que acabo de la [Última Pregunta](http://todoslosnombresyaestabanocupados.blogspot.com/2009/01/la-ltima-pregunta.html) de Asimov =). Bueno, el caso es que al empezar a programar siempre surge la necesidad de mandar correos y no todo mundo tiene a su disposición un servidor de correo instalado localmente desde el cual mandarlos.
+Desde que linux es linux el hombre se ha preguntado por la manera más eficiente para comunicarse con otras personas. Hmmmm, perdón por ese inicio tan raro, es que acabo de la [Última Pregunta](https://todoslosnombresyaestabanocupados.blogspot.com/2009/01/la-ltima-pregunta.html) de Asimov =). Bueno, el caso es que al empezar a programar siempre surge la necesidad de mandar correos y no todo mundo tiene a su disposición un servidor de correo instalado localmente desde el cual mandarlos.
 
-En linux existe una aplicación llamada mail que otros programas (como PHP) utilizan para mandar correos. En realidad hay muchas versiones de este programa. La que encontré que era más sencilla de instalar y configurar en ubuntu fue [heirloom-mailx](http://heirloom.sourceforge.net/mailx.html) (antes se llamaba __nail__).
+En linux existe una aplicación llamada mail que otros programas (como PHP) utilizan para mandar correos. En realidad hay muchas versiones de este programa. La que encontré que era más sencilla de instalar y configurar en ubuntu fue [heirloom-mailx](https://heirloom.sourceforge.net/mailx.html) (antes se llamaba __nail__).
 
     sudo apt-get install heirloom-mailx
 

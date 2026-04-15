@@ -6,7 +6,7 @@ description: "Experiencia instalando Visual Studio 2008 y SQL Server 2008 Expres
 title: Dolores de cabeza instalando el stack de microsoft
 ---
 
-Hace poco, por razones estríctamente laborales, decidí instalar el stack de desarrollo de Microsoft. Llamese Visual Studio 2008, SQL Server 2008 Express y otras herramientas sugeridas por el [web platform installer](http://microsoft.com/web).
+Hace poco, por razones estríctamente laborales, decidí instalar el stack de desarrollo de Microsoft. Llamese Visual Studio 2008, SQL Server 2008 Express y otras herramientas sugeridas por el [web platform installer](https://microsoft.com/web).
 
 Debo decir que estoy gratamente sorprendido por el web platform installer. Ya que con él puedes instalar PHP de manera decente - usando FastCGI - para el IIS e incluso Drupal y otros programas de software libre.
 
@@ -16,9 +16,9 @@ La más grande de todas llegó al querer instalar el SQL Server 2008 Express. La
 
 >  Rule "Performance counter registry hive consistency check" failed. The performance counter registry hive is corrupted
 
-E incluso una referencia a la base de conocimientos de Microsoft para [ver cómo solucionarlo](http://support.microsoft.com/kb/300956). ¡Vaya! Eso sí son mensajes de error. Los pasos no eran miel sobre hojuelas. Tenía que editar el registro de windows, borrar algunas entradas y luego correr algunos comandos en la consola para poder regenerarlos, reiniciar - ¡claro! - y luego correr otros comandos. Terminé muy satisfecho de la ayuda clara y me dispuse a instalar nuevamente. Nada.
+E incluso una referencia a la base de conocimientos de Microsoft para [ver cómo solucionarlo](https://support.microsoft.com/kb/300956). ¡Vaya! Eso sí son mensajes de error. Los pasos no eran miel sobre hojuelas. Tenía que editar el registro de windows, borrar algunas entradas y luego correr algunos comandos en la consola para poder regenerarlos, reiniciar - ¡claro! - y luego correr otros comandos. Terminé muy satisfecho de la ayuda clara y me dispuse a instalar nuevamente. Nada.
 
-Chale. Bueno, pues vamos buscando en Google =D. [La primera respuesta](http://www.ferventcoder.com/archive/2008/08/10/possible-performance-counter-corruption-or-performance-counters-are-just-disabled.aspx) se veía bastante prometedora, porque era de alguien que tampoco había podido instalar el SQL Server. Lo malo fue que el leer ví que repetía algunos de los pasos que ya había seguido y que no aplicaba mucho a mi situación actual.
+Chale. Bueno, pues vamos buscando en Google =D. [La primera respuesta](https://www.ferventcoder.com/archive/2008/08/10/possible-performance-counter-corruption-or-performance-counters-are-just-disabled.aspx) se veía bastante prometedora, porque era de alguien que tampoco había podido instalar el SQL Server. Lo malo fue que el leer ví que repetía algunos de los pasos que ya había seguido y que no aplicaba mucho a mi situación actual.
 
 Total que googleando por otros lados eventualmente llegué a una página titulada "[SQL Server 2008 Nov CTP Installation error](https://connect.microsoft.com/SQLServer/feedback/ViewFeedback.aspx?FeedbackID=311246)". Y ahí encontré la solución a mi problema. Otra persona se dió a la tarea de:
 

@@ -10,7 +10,7 @@ No se cómo voy a votar este 5 de Julio. Estoy harto de la política mexicana, t
 
 Para estas votaciones me encanta la idea que está en boca de todos de ANULAR mi voto. Y decirles a los políticos: ¡NINGUNO MERECE MI VOTO! perros.
 
-Varios amigos, familiares, conocidos están en las mismas. Y creo que el ejercicio que proponen en el grupo de [Anúlalos](http://anulalos.blogspot.com/) (que me llegó por facebook) es el más apropiado, aunque parezca medio zonzo. El ejercicio va así:
+Varios amigos, familiares, conocidos están en las mismas. Y creo que el ejercicio que proponen en el grupo de [Anúlalos](https://anulalos.blogspot.com/) (que me llegó por facebook) es el más apropiado, aunque parezca medio zonzo. El ejercicio va así:
 
 1. Analizar a los candidatos de nuestra localidad. Si te convence alguno, se acabó el ejercicio =P.
 2. Si no. Considera las opciones restantes: No votar o anular el voto.

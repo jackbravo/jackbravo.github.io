@@ -20,5 +20,5 @@ Un profesor de ciencias computacionales una vez explicó la recursión así:
       ...y la ranita cayó dormida;
     ...y el niño cayó dormido.
 
-[reddit]: http://www.reddit.com/ "Alguna vez haz usado digg o algo así?"
-[recursion]: http://everything2.com/index.pl?node_id=477013 "definición de recursión"
+[reddit]: https://www.reddit.com/ "Alguna vez haz usado digg o algo así?"
+[recursion]: https://everything2.com/index.pl?node_id=477013 "definición de recursión"

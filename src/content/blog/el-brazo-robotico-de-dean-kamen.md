@@ -7,7 +7,7 @@ description: "Sobre el brazo robótico desarrollado por Dean Kamen para personas
 title: El brazo robótico de Dean Kamen
 ---
 
-<embed src="http://services.brightcove.com/services/viewer/federated_f8/452319854" bgcolor="#FFFFFF" flashVars="videoId=1576332530&playerId=452319854&viewerSecureGatewayURL=https://services.brightcove.com/services/amfgateway&servicesURL=http://services.brightcove.com/services&cdnURL=http://admin.brightcove.com&domain=embed&autoStart=false&" base="http://admin.brightcove.com" name="flashObj" width="486" height="412" seamlesstabbing="false" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+<iframe width="486" height="412" src="https://www.youtube.com/embed/R0_mLumx-6Y" title="Dean Kamen's Robotic &quot;Luke&quot; Arm" frameborder="0" allowfullscreen></iframe>
 
 Maravillas del mundo moderno.
 <!--break-->

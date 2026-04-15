@@ -9,9 +9,9 @@ description: "Cómo hacer backups de bases de datos MySQL utilizando git como si
 title: Backups de MySQL con git
 ---
 
-[Brian Aker](http://krow.livejournal.com/593424.html), desarrollador de mysql, sugirió una manera "inteligente o extraña" de hacer backups de tu base de datos utilizando mercurial (un sistema control de versiones distribuido).
+[Brian Aker](https://krow.livejournal.com/593424.html), desarrollador de mysql, sugirió una manera "inteligente o extraña" de hacer backups de tu base de datos utilizando mercurial (un sistema control de versiones distribuido).
 
-Nosotros en axai veníamos utilizando un sistema parecido, con la diferencia de que nosotros utilizamos [git](http://git.or.cz/) en vez de mercurial y que tampoco conocíamos la opción --tab del comando [mysqldump](http://dev.mysql.com/doc/refman/5.0/en/upgrading-to-arch.html). Esta opción es la que logra hacer que este método para backups sea todavía más útil, ya que al revisar la historia de tu base de datos podrás ver exactamente que cambios a sufrido con el paso del tiempo.
+Nosotros en axai veníamos utilizando un sistema parecido, con la diferencia de que nosotros utilizamos [git](https://git-scm.com/) en vez de mercurial y que tampoco conocíamos la opción --tab del comando [mysqldump](https://dev.mysql.com/doc/refman/5.0/en/upgrading-to-arch.html). Esta opción es la que logra hacer que este método para backups sea todavía más útil, ya que al revisar la historia de tu base de datos podrás ver exactamente que cambios a sufrido con el paso del tiempo.
 
 Este método de backups en resumidas cuentas tiene las siguientes ventajas:
 
