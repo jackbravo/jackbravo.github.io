@@ -131,7 +131,7 @@ article iframe {
 }
 
 @media (prefers-color-scheme: dark) {
-	img.gaceta {
+	img.gaceta, nav a img {
 		filter: invert(1);
 	}
 }
