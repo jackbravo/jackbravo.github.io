@@ -9,6 +9,8 @@ tags:
 
 _Esta es una traducción al español de una entrevista que me hicieron en Wizeline, como parte de una serie de artículos que se llaman "Humans of Wizeline", escrito por Clau López_
 
+[Álbum de fotos](https://photos.app.goo.gl/3CcC4xG2AJCwbcwv8)
+
 > Joaquín (Jack) Bravo es el Líder de Innovación en Wizeline. Ha estado en Wizeline durante cinco años, inicialmente realizando tareas de desarrollo de software e engineer manager antes de comenzar en su puesto actual, donde coordina y supervisa todas las iniciativas de innovación dentro de Wizeline. En esta entrevista, nos cuenta sobre el progreso de su carrera, su pasión por el software de código abierto y cómo esta pasión continúa dando forma a su carrera.
 
 Joaquín es nativo de Guadalajara, México. Tiene dos hermanos menores: un hermano y una hermana. Tuvo una infancia muy feliz y recibió una educación poco convencional en una escuela primaria llamada Pierre Faure, que utiliza el método Montessori para enseñar a los estudiantes cómo aprender de manera práctica y tomar decisiones creativas.
